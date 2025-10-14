@@ -13,7 +13,7 @@ React · Next.js · TypeScript · JavaScript · Node.js · Nest.js · .NET · C#
 ---
 
 ### Interests  
-Building full-stack web and mobile apps · improving learning resources · exploring automation · simplifying developer workflows  
+Experimenting with RAG and vector-database workflows using LangChain and Semantic Kernel — exploring ways to store, retrieve, and use data to improve AI-generated responses. 
 
 ---
 
