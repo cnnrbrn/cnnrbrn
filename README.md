@@ -8,7 +8,7 @@ I build with modern web stacks and care about writing code that’s clear, maint
 ---
 
 ### 💻 Tech & Tools  
-React · Next.js · TypeScript · JavaScript · Node.js · Express · .NET · SQL · Tailwind · SASS · Docker · Firebase · Supabase · AWS  
+React · Next.js · TypeScript · JavaScript · Node.js · Nest.js · .NET · C# · Tailwind · Docker · AWS · Firebase · Supabase 
 
 ---
 
