@@ -17,5 +17,5 @@ Building full-stack web and mobile apps · improving learning resources · explo
 
 ---
 
-### 🌐 Connect  
+### Connect  
 connorbobrien@gmail.com  
