@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hey, I’m Connor O’Brien  
 
-<!--
-**cnnrbrn/cnnrbrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **full-stack developer** who also teaches and creates technical content.  
+My GitHub includes production code, experiments, and smaller repositories used to demonstrate or explain specific coding concepts while teaching.  
 
-Here are some ideas to get you started:
+I build with modern web stacks and care about writing code that’s clear, maintainable, and practical — whether it’s for a real project or an example used to explain one.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech & Tools  
+React · Next.js · TypeScript · JavaScript · Node.js · Express · .NET · SQL · Tailwind · SASS · Docker · Firebase · Supabase · AWS  
+
+---
+
+### ⚙️ Interests  
+Building full-stack web apps · improving learning resources · exploring automation · simplifying developer workflows  
+
+---
+
+### 🌐 Connect  
+connorbobrien@gmail.com  
