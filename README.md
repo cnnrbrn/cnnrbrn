@@ -1,6 +1,7 @@
 ## Hello, I’m Connor O’Brien  
 
-I’m a **full-stack developer** who also teaches and creates technical content.  
+I’m a **full-stack developer**.
+
 My GitHub includes production code, experiments, and smaller repositories used to demonstrate or explain specific coding concepts while teaching.  
 
 I build with modern web stacks and care about writing code that’s clear, maintainable, and practical — whether it’s for a real project or an example used to explain one.  
