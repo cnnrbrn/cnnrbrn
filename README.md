@@ -11,11 +11,3 @@ I build with modern web stacks and care about writing code that’s clear, maint
 React · Next.js · TypeScript · JavaScript · Node.js · Nest.js · .NET · C# · Flutter · Tailwind · Docker · AWS · Firebase · Supabase 
 
 ---
-
-### Interests  
-Experimenting with RAG and vector-database workflows using LangChain and Semantic Kernel — exploring ways to store, retrieve, and use data to improve AI-generated responses. 
-
----
-
-### Connect  
-connorbobrien@gmail.com  
